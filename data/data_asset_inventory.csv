@@ -1,1 +1,11 @@
-
+asset_id,asset_name,business_area,data_type,contains_personal_data,contains_sensitive_data,data_volume,access_level,external_sharing,data_residency_known,encryption_enabled,retention_defined,business_owner,system_owner,current_status
+DA-001,Customer Support Tickets,Customer Operations,Customer service records,Yes,No,High,Internal,Yes,Yes,Yes,Partial,Customer Operations Team,Support Systems Team,Active
+DA-002,Employee HR Records,Human Resources,Employment records,Yes,Yes,Medium,Restricted,No,Yes,Yes,Yes,HR Team,People Systems Team,Active
+DA-003,Research Participant Dataset,Research,Survey and research responses,Yes,Yes,High,Restricted,Yes,Partial,Partial,No,Research Team,Data Governance Team,Active
+DA-004,Marketing Newsletter List,Marketing,Contact list,Yes,No,Medium,Internal,Yes,Yes,Yes,Partial,Marketing Team,CRM Team,Active
+DA-005,Finance Invoice Archive,Finance,Invoice and billing records,Yes,No,High,Restricted,No,Yes,Yes,Yes,Finance Team,Finance Systems Team,Active
+DA-006,Application Log Data,Engineering,System and application logs,Partial,No,High,Internal,No,Yes,Partial,Partial,Engineering Team,Platform Team,Active
+DA-007,Vendor Due Diligence Files,GRC,Vendor assurance documents,Yes,Partial,Medium,Restricted,Yes,Yes,Yes,Yes,GRC Team,Compliance Team,Active
+DA-008,Product Usage Analytics,Product Analytics,Usage behaviour data,Partial,No,High,Internal,Yes,Partial,Yes,No,Product Team,Analytics Team,Active
+DA-009,Clinical Trial Prototype Data,Research,Health-related prototype dataset,Yes,Yes,Medium,Restricted,No,Partial,Yes,No,Research Team,Data Governance Team,Under Review
+DA-010,Public Website Analytics,Marketing,Aggregated web analytics,No,No,High,Internal,Yes,Yes,Yes,Yes,Marketing Team,Web Team,Active
