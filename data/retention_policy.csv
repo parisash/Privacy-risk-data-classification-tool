@@ -1,1 +1,11 @@
-
+data_type,recommended_retention,retention_rationale,review_frequency
+Customer service records,2 years after case closure,Operational support history and complaint handling requirements,Annual
+Employment records,7 years after employment ends,Employment administration and legal record keeping,Annual
+Survey and research responses,5 years after project completion,Research reproducibility ethics and governance requirements,Annual
+Contact list,Until consent withdrawn or inactive for 2 years,Marketing consent and communication relevance,Semi-Annual
+Invoice and billing records,7 years,Financial record keeping and audit support,Annual
+System and application logs,12 months,Security monitoring troubleshooting and audit traceability,Quarterly
+Vendor assurance documents,Duration of vendor relationship plus 2 years,Vendor assurance and contract governance,Annual
+Usage behaviour data,12 to 24 months depending on purpose,Product analytics minimisation and trend analysis,Semi-Annual
+Health-related prototype dataset,Project-specific and ethics-approved period,High sensitivity research and privacy governance,Quarterly
+Aggregated web analytics,24 months,Trend analysis with reduced privacy risk,Annual
