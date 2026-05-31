@@ -1,1 +1,11 @@
-
+control_id,control_area,control_requirement,applies_when,evidence_required
+PC-001,Data Classification,Data assets must be classified based on confidentiality privacy sensitivity and business impact,All data assets,Approved data classification register
+PC-002,Data Minimisation,Only data necessary for the stated business purpose should be collected stored and processed,Personal or sensitive data is processed,Data minimisation review record
+PC-003,Access Control,Access to personal and sensitive data must be restricted to authorised users based on business need,Personal confidential or sensitive data is processed,Access review export and approval record
+PC-004,Encryption,Personal sensitive or restricted data should be protected using encryption at rest and in transit,Sensitive or restricted data is processed,Encryption configuration evidence
+PC-005,Retention Management,Retention periods must be defined and reviewed for datasets containing personal or sensitive information,Personal or sensitive data is retained,Retention schedule and disposal review evidence
+PC-006,Data Residency,Data location and cross-border processing arrangements should be understood and documented,External sharing or third-party processing occurs,Data residency statement or vendor processing location evidence
+PC-007,Third-Party Sharing,External sharing of personal or sensitive data must be reviewed and approved,External sharing is present,Approved sharing record DPA or vendor review evidence
+PC-008,DPIA Review,A privacy impact review should be completed for high-risk personal or sensitive data processing,Sensitive data high volume or new processing activity,DPIA checklist risk decision and approval evidence
+PC-009,Logging and Monitoring,Access to high-risk data assets should be monitored and reviewable,Restricted or sensitive data is processed,Access logs monitoring configuration and review record
+PC-010,Privacy Risk Acceptance,Unresolved privacy risks should have documented treatment decision owner and review date,Privacy risk remains after controls are assessed,Risk acceptance or treatment decision record
